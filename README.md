@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 
-- 💬 Ask me about **SQL,SELENIUM,AWS,PYTHON**
+- 💬 Ask me about **SQL,SELENIUM,AWS,PYTHON,POWERBI**
 
 - 📫 How to reach me **ashutosh.chavan6004@gmail.com**
 
